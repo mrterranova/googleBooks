@@ -81,24 +81,3 @@ body {
     right: 30px;
     cursor: pointer;
 }
-
-/* View CSS */
-.view-header {
-    text-align: center;
-    color: white;
-}
-#view-book-image {
-    float: left;
-}
-.view-link-book-info {
-    margin-left: 10%;
-    float: left;
-    width: 60%;
-}
-#deleteBtn {
-    float: right;
-    background: none;
-}
-#deleteBtn-img {
-    max-height: 50px;
-}
