@@ -47,7 +47,7 @@ class View extends Component {
             <a href={book.link}><img id="view-book-image" src={book.image} alt="book" /></a>
                  <div className="view-link-book-info">
                    <h2 className="view-title-book">{book.title}</h2> 
-                   <p className="view-author-book">by <i>{book.author}</i></p>
+                   <p className="view-author-book">Published by <i>{book.author}</i></p>
                    <p className="view-description-book">{book.description}</p>
                  </div>
               </ListBook>
